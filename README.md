@@ -1,1 +1,1 @@
-# MyMobileApp_-Rustam1
+# MyMobileApp_Студент1
